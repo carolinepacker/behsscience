@@ -2,6 +2,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 
 body {
-    background-color: #4A2F76;
+    background-color: #3A1156;
     max-width: 100%;
+}
+
+@media (min-width: 768px) {
+    .contact-card {
+        border-right: solid 1px #ccc;
+    }
+
+    #sciencenvrsucks {
+        background-color: #DFD8EB;
+        color: #272727
+    }
+
+    hr {
+        border: solid .15em #3A1156;
+    }
 }
