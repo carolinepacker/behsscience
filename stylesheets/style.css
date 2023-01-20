@@ -1,29 +1,7 @@
-/* Main Stylesheet for BEHS Science Website
-        fonts used:
-            - Oswald
-*/
+/* Main Stylesheet for BEHS Science Website */
 @import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 
-
-/* XS Devices (Portrait phones, less than 576px) */
-
-
-/* SM Devices (Lanscape phones, 576px and up) */
-@media (min-width: 576px) {
-    
-}
-
-/* MD Devices (Tablets, 768px and up) */
-@media (min-width: 768px) {
-
-}
-
-/* LG Devices (desktops, 992px and up) */
-@media (min-width: 992px) {
-
-}
-
-/* X-LG devices (Large Desktops, 1200px and up) */
-@media (min-width: 1200px) {
-
+body {
+    background-color: #4A2F76;
+    max-width: 100%;
 }
