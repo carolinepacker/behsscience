@@ -1,3 +1,2 @@
-# **BEHS Science Department Website**
-#### Caroline Packer
+# **BEHS Science Department Website*
 ##### Software Used: Visual Studio Code, Bootstrap
