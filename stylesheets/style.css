@@ -1,8 +1,7 @@
 /* Main Stylesheet for BEHS Science Website */
-@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 
 body {
-    background-color: #3A1156;
+    background-color: #2a113b;
     max-width: 100%;
 }
 
